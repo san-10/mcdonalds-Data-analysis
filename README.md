@@ -15,5 +15,6 @@ This dataset provides a nutrition analysis of every menu item on the US McDonald
 
 ![image](https://user-images.githubusercontent.com/77192321/140561987-9e2c05c4-cb79-4026-baf2-38f17baeee92.png)
 
+![image](https://user-images.githubusercontent.com/77192321/140562014-8fac183a-78a1-46af-8703-81296e4e1312.png)
 
 
