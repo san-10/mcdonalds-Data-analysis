@@ -6,3 +6,10 @@ To obtain this, selected a completely unique path: persuading each franchisees a
 
 Content
 This dataset provides a nutrition analysis of every menu item on the US McDonald's menu, including breakfast, beef burgers, chicken and fish sandwiches, fries, salads, soda, coffee and tea, milkshakes, and desserts.
+
+
+![image](https://user-images.githubusercontent.com/77192321/140561890-5e30d9f3-3f28-4025-997d-ba889aaf8261.png)
+
+![image](https://user-images.githubusercontent.com/77192321/140561965-41cf936b-6d2e-414d-ae2a-d4cc41000272.png)
+
+
